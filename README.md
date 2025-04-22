@@ -11,3 +11,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Maven]
 - [RabbitMQ]
 - [Postman]
+- [Docker]
